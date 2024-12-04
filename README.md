@@ -57,7 +57,7 @@
     </td>
     <td>
       <h3>최은미 교수님과의 인터뷰</h3>
-      <img src="https://github.com/user-attachments/assets/4e174357-ab66-464a-bcf5-297b2e857072" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/d26a7a11-5dc4-41bf-a942-51293659bd79" width="300" height="200" />
       <p>교수님의 조언이 큰 도움이 되었습니다 🙏</p>
     </td>
   </tr>
