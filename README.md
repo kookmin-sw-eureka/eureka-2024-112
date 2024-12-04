@@ -48,54 +48,49 @@
 ---
 # 활동 사진 모음 📸
 
----
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>1. 사진 제목: 정통처 탐방</h3>
-  <img src="https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461" width="300" height="200" />
-  <p>정통처를 탐방해보았습니다! 새로운 경험으로 가득한 시간이었어요. 😊</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>2. 사진 제목: 최은미 교수님과의 인터뷰</h3>
-  <img src="https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64" width="300" height="200" />
-  <p>최은미 교수님과 진솔한 이야기를 나누는 모습이에요. 교수님의 조언이 큰 도움이 되었어요! 🙏</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>3. 사진 제목: 박수현 교수님과의 인터뷰</h3>
-  <img src="https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c" width="300" height="200" />
-  <p>박수현 교수님과의 인터뷰 현장! 따뜻한 말씀과 격려에 감사드려요. 🌟</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>4. 사진 제목: 서버실 탐방</h3>
-  <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
-  <p>서버실 탐방 중! 기술의 중심에 서 있는 느낌이에요. 💻</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>5. 사진 제목: 윤상민 교수님과의 인터뷰</h3>
-  <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
-  <p>윤상민 교수님과 인터뷰를 진행했습니다. 의미 있는 대화였어요! 🙌</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>6. 사진 제목: 대학원생과의 인터뷰</h3>
-  <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
-  <p>대학원생 선배님들과의 인터뷰를 통해 많은 인사이트를 얻었어요! 🎓</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>7. 사진 제목: 행정실 탐방</h3>
-  <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
-  <p>행정실 탐방을 통해 학교 시스템을 이해하는 좋은 기회였어요. 🏢</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px;">
-  <h3>8. 사진 제목: 대학원 소개 참여</h3>
-  <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
-  <p>대학원 소개 행사에 참여하며 진학 계획을 구체화해 보았어요! ✨</p>
-</div>
-
----
+<table>
+  <tr>
+    <td>
+      <h3>정통처 탐방</h3>
+      <img src="https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461" width="300" height="200" />
+      <p>정통처를 탐방해보았습니다! 😊</p>
+    </td>
+    <td>
+      <h3>최은미 교수님과의 인터뷰</h3>
+      <img src="https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64" width="300" height="200" />
+      <p>교수님의 조언이 큰 도움이 되었어요! 🙏</p>
+    </td>
+    <td>
+      <h3>박수현 교수님과의 인터뷰</h3>
+      <img src="https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c" width="300" height="200" />
+      <p>따뜻한 말씀과 격려에 감사드려요. 🌟</p>
+    </td>
+    <td>
+      <h3>서버실 탐방</h3>
+      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <p>기술의 중심에 서 있는 느낌이에요. 💻</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>윤상민 교수님과의 인터뷰</h3>
+      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <p>의미 있는 대화였어요! 🙌</p>
+    </td>
+    <td>
+      <h3>대학원생과의 인터뷰</h3>
+      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <p>많은 인사이트를 얻었어요! 🎓</p>
+    </td>
+    <td>
+      <h3>행정실 탐방</h3>
+      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <p>학교 시스템을 이해하는 기회였어요. 🏢</p>
+    </td>
+    <td>
+      <h3>대학원 소개 참여</h3>
+      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <p>진학 계획을 구체화했어요! ✨</p>
+    </td>
+  </tr>
+</table>
