@@ -52,48 +52,48 @@
   <tr>
     <td>
       <h3>정통처 탐방</h3>
-      <img src="https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/fae481b9-6b4d-41b4-98f2-495a350e3bbc" width="300" height="200" />
       <p>정통처를 탐방해보았습니다 😊</p>
     </td>
     <td>
       <h3>최은미 교수님과의 인터뷰</h3>
-      <img src="https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/4e174357-ab66-464a-bcf5-297b2e857072" width="300" height="200" />
       <p>교수님의 조언이 큰 도움이 되었습니다 🙏</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>박수현 교수님과의 인터뷰</h3>
-      <img src="https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/eb785fee-7ce1-4d4f-bf4a-060b9c9f1a46" width="300" height="200" />
       <p>따뜻한 말씀과 격려 감사합니다 🌟</p>
     </td>
     <td>
       <h3>서버실 탐방</h3>
-      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/68e05f4e-b401-45b8-8c67-76817a261216" width="300" height="200" />
       <p>흔치 않은 서버실 탐방 💻</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>윤상민 교수님과의 인터뷰</h3>
-      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/afe8ac8a-8bb6-48e9-b181-6d8de0e042b7" width="300" height="200" />
       <p>의미 있는 대화였어요! 🙌</p>
     </td>
     <td>
       <h3>대학원생과의 인터뷰</h3>
-      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/0a201499-fd80-44e8-bc1f-ce5ee0eb7ee6" width="300" height="200" />
       <p>많은 인사이트를 얻었어요 🎓</p>
     </td>
   </tr>
   <tr>
     <td>
       <h3>행정실 탐방</h3>
-      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/90b61a70-933a-4f45-9d25-9c6696465864" width="300" height="200" />
       <p>학교 시스템을 들을 수 있는 기회였어요. 🏢</p>
     </td>
     <td>
       <h3>대학원 소개 참여</h3>
-      <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
+      <img src="https://github.com/user-attachments/assets/e96c813f-89e2-4514-8989-dd0c88da0912" width="300" height="200" />
       <p>진학 계획을 구체화했습니다 ✨</p>
     </td>
   </tr>
