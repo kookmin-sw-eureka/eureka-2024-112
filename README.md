@@ -60,6 +60,8 @@
       <img src="https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64" width="300" height="200" />
       <p>교수님의 조언이 큰 도움이 되었습니다 🙏</p>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3>박수현 교수님과의 인터뷰</h3>
       <img src="https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c" width="300" height="200" />
@@ -82,6 +84,8 @@
       <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
       <p>많은 인사이트를 얻었어요 🎓</p>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3>행정실 탐방</h3>
       <img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
