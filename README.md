@@ -8,7 +8,8 @@
 - **한승민**  
 
 ---
-<img width="823" alt="스크린샷 2024-12-05 오후 4 19 01" src="https://github.com/user-attachments/assets/cd68e8cd-b586-4751-83b1-367bb7847a03">
+<img src="https://github.com/user-attachments/assets/cd68e8cd-b586-4751-83b1-367bb7847a03" width="200" height="150" alt="이미지 설명">
+
 ## 팀 슬로건 🗣️  
 **"같이 하면, 가치 있다!"**  
 서로 다른 국적이더라도 함께 협력하여 훌륭한 팀워크로 팀 활동을 수행하자는 의미를 담고 있습니다.
